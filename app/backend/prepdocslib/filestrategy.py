@@ -123,10 +123,11 @@ class FileStrategy(Strategy):
             async for file in files:
                 try:
                     blob_url = await self.blob_manager.upload_blob(file)
+                    category = self.category or file.category
                     sections = await parse_file(
                         file,
                         self.file_processors,
-                        self.category,
+                        category,
                         self.blob_manager,
                         self.image_embeddings,
                         figure_processor=self.figure_processor,
@@ -184,7 +185,7 @@ class UploadUserFileStrategy:
         sections = await parse_file(
             file,
             self.file_processors,
-            None,
+            file.category,
             self.blob_manager,
             self.image_embeddings,
             figure_processor=self.figure_processor,

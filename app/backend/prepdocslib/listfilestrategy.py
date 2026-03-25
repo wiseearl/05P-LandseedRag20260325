@@ -17,10 +17,11 @@ class File:
     This file might contain access control information about which users or groups can access it
     """
 
-    def __init__(self, content: IO, acls: Optional[dict[str, list]] = None, url: Optional[str] = None):
+    def __init__(self, content: IO, acls: Optional[dict[str, list]] = None, url: Optional[str] = None, category: Optional[str] = None):
         self.content = content
         self.acls = acls or {}
         self.url = url
+        self.category = category
 
     def filename(self) -> str:
         """
@@ -105,7 +106,9 @@ class LocalListFileStrategy(ListFileStrategy):
         acls = {"oids": ["all"], "groups": ["all"]} if self.enable_global_documents else {}
         async for path in self.list_paths():
             if not self.check_md5(path):
-                yield File(content=open(path, mode="rb"), acls=acls, url=path)
+                # Use the parent directory name as the category.
+                category = os.path.basename(os.path.dirname(path))
+                yield File(content=open(path, mode="rb"), acls=acls, url=path, category=category)
 
     def check_md5(self, path: str) -> bool:
         # if filename ends in .md5 skip
