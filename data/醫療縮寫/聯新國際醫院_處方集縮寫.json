@@ -1,0 +1,352 @@
+[
+    {
+        "Abbreviation": "Ac",
+        "Full Term": "before meals"
+    },
+    {
+        "Abbreviation": "AM",
+        "Full Term": "morning"
+    },
+    {
+        "Abbreviation": "BID",
+        "Full Term": "twice a day"
+    },
+    {
+        "Abbreviation": "BP",
+        "Full Term": "blood pressure"
+    },
+    {
+        "Abbreviation": "BSA",
+        "Full Term": "body surface area"
+    },
+    {
+        "Abbreviation": "cap",
+        "Full Term": "capsule"
+    },
+    {
+        "Abbreviation": "D5W",
+        "Full Term": "dextrose 5% in water"
+    },
+    {
+        "Abbreviation": "DC",
+        "Full Term": "discontinue"
+    },
+    {
+        "Abbreviation": "DW",
+        "Full Term": "distilled water"
+    },
+    {
+        "Abbreviation": "gm",
+        "Full Term": "gram"
+    },
+    {
+        "Abbreviation": "gtt",
+        "Full Term": "drop"
+    },
+    {
+        "Abbreviation": "hr",
+        "Full Term": "hour"
+    },
+    {
+        "Abbreviation": "hs",
+        "Full Term": "at bedtime"
+    },
+    {
+        "Abbreviation": "IM",
+        "Full Term": "intramuscular"
+    },
+    {
+        "Abbreviation": "inj",
+        "Full Term": "injection"
+    },
+    {
+        "Abbreviation": "IV",
+        "Full Term": "intravenous"
+    },
+    {
+        "Abbreviation": "mcg",
+        "Full Term": "microgram"
+    },
+    {
+        "Abbreviation": "mEq",
+        "Full Term": "milliequivalent"
+    },
+    {
+        "Abbreviation": "mg",
+        "Full Term": "milligram"
+    },
+    {
+        "Abbreviation": "mL",
+        "Full Term": "milliliter"
+    },
+    {
+        "Abbreviation": "NS",
+        "Full Term": "normal saline"
+    },
+    {
+        "Abbreviation": "NPO",
+        "Full Term": "nothing by mouth"
+    },
+    {
+        "Abbreviation": "NTG",
+        "Full Term": "Nitroglycerin"
+    },
+    {
+        "Abbreviation": "oint",
+        "Full Term": "ointment"
+    },
+    {
+        "Abbreviation": "Pc",
+        "Full Term": "after meals"
+    },
+    {
+        "Abbreviation": "PM",
+        "Full Term": "afternoon, evening"
+    },
+    {
+        "Abbreviation": "po",
+        "Full Term": "by mouth"
+    },
+    {
+        "Abbreviation": "p r n",
+        "Full Term": "as needed"
+    },
+    {
+        "Abbreviation": "q",
+        "Full Term": "every"
+    },
+    {
+        "Abbreviation": "qd",
+        "Full Term": "every day"
+    },
+    {
+        "Abbreviation": "qh",
+        "Full Term": "every hour"
+    },
+    {
+        "Abbreviation": "qid",
+        "Full Term": "four times a day"
+    },
+    {
+        "Abbreviation": "qod",
+        "Full Term": "every other day"
+    },
+    {
+        "Abbreviation": "LR",
+        "Full Term": "Lactated Ringer"
+    },
+    {
+        "Abbreviation": "SL",
+        "Full Term": "sublingual"
+    },
+    {
+        "Abbreviation": "sol",
+        "Full Term": "solution"
+    },
+    {
+        "Abbreviation": "stat",
+        "Full Term": "immediately"
+    },
+    {
+        "Abbreviation": "supp",
+        "Full Term": "suppository"
+    },
+    {
+        "Abbreviation": "susp",
+        "Full Term": "suspension"
+    },
+    {
+        "Abbreviation": "syr",
+        "Full Term": "syrup"
+    },
+    {
+        "Abbreviation": "tab",
+        "Full Term": "tablet"
+    },
+    {
+        "Abbreviation": "tid",
+        "Full Term": "three times a day"
+    },
+    {
+        "Abbreviation": "tiw",
+        "Full Term": "three times a week"
+    },
+    {
+        "Abbreviation": "TPN",
+        "Full Term": "total parenteral nutrition"
+    },
+    {
+        "Abbreviation": "btl",
+        "Full Term": "bottle"
+    },
+    {
+        "Abbreviation": "min",
+        "Full Term": "minute"
+    },
+    {
+        "Abbreviation": "PCT",
+        "Full Term": "penicillin test"
+    },
+    {
+        "Abbreviation": "wk",
+        "Full Term": "week"
+    },
+    {
+        "Abbreviation": "AD",
+        "Full Term": "right ear"
+    },
+    {
+        "Abbreviation": "AS",
+        "Full Term": "left ear"
+    },
+    {
+        "Abbreviation": "AU",
+        "Full Term": "both ears"
+    },
+    {
+        "Abbreviation": "ENEM",
+        "Full Term": "Enema"
+    },
+    {
+        "Abbreviation": "ET",
+        "Full Term": "Endotracheal"
+    },
+    {
+        "Abbreviation": "EXT",
+        "Full Term": "External"
+    },
+    {
+        "Abbreviation": "GAR",
+        "Full Term": "gargle"
+    },
+    {
+        "Abbreviation": "IA",
+        "Full Term": "Intraarterial"
+    },
+    {
+        "Abbreviation": "IE",
+        "Full Term": "Intraepidural"
+    },
+    {
+        "Abbreviation": "INHL",
+        "Full Term": "Inhalation"
+    },
+    {
+        "Abbreviation": "IP",
+        "Full Term": "intraperitoneal"
+    },
+    {
+        "Abbreviation": "IR",
+        "Full Term": "irregular"
+    },
+    {
+        "Abbreviation": "IRRI",
+        "Full Term": "Irrigation"
+    },
+    {
+        "Abbreviation": "IS",
+        "Full Term": "Intrasynovial"
+    },
+    {
+        "Abbreviation": "IT",
+        "Full Term": "Intrathecal"
+    },
+    {
+        "Abbreviation": "IU",
+        "Full Term": "injection, intrauterine"
+    },
+    {
+        "Abbreviation": "IVA",
+        "Full Term": "IV addatives"
+    },
+    {
+        "Abbreviation": "IVAC",
+        "Full Term": "intravenous infusion pump"
+    },
+    {
+        "Abbreviation": "IVD",
+        "Full Term": "intravenous drip"
+    },
+    {
+        "Abbreviation": "IVF",
+        "Full Term": "intravenous infusion"
+    },
+    {
+        "Abbreviation": "IVI",
+        "Full Term": "Intravitreal"
+    },
+    {
+        "Abbreviation": "IVP",
+        "Full Term": "intravenous push"
+    },
+    {
+        "Abbreviation": "LA",
+        "Full Term": "local anesthesia"
+    },
+    {
+        "Full Term": "nasal"
+    },
+    {
+        "Abbreviation": "OD",
+        "Full Term": "right eye"
+    },
+    {
+        "Abbreviation": "OS",
+        "Full Term": "left eye"
+    },
+    {
+        "Abbreviation": "OU",
+        "Full Term": "both eyes"
+    },
+    {
+        "Abbreviation": "PO/AC",
+        "Full Term": "by mouth /before meals"
+    },
+    {
+        "Abbreviation": "PO/PC",
+        "Full Term": "by mouth /after meals"
+    },
+    {
+        "Abbreviation": "PRESS",
+        "Full Term": "pressure hemostasis"
+    },
+    {
+        "Abbreviation": "RECT",
+        "Full Term": "Rectal"
+    },
+    {
+        "Abbreviation": "SC/AC",
+        "Full Term": "subcutaneous /before meals"
+    },
+    {
+        "Abbreviation": "SCI",
+        "Full Term": "Subconjuctiva"
+    },
+    {
+        "Abbreviation": "SKIN",
+        "Full Term": "skin"
+    },
+    {
+        "Abbreviation": "SL",
+        "Full Term": "sublingually"
+    },
+    {
+        "Abbreviation": "SPI",
+        "Full Term": "Spinal"
+    },
+    {
+        "Abbreviation": "TOPI",
+        "Full Term": "topical"
+    },
+    {
+        "Abbreviation": "VAG",
+        "Full Term": "vaginally"
+    },
+    {
+        "Abbreviation": "WETT"
+    },
+    {
+        "Abbreviation": "XX",
+        "Full Term": "other"
+    }
+]

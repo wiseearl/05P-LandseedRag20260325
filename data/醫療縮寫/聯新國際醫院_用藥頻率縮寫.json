@@ -1,0 +1,186 @@
+[
+    {
+        "Abbreviation": "BID",
+        "Full Term": "一日二次"
+    },
+    {
+        "Abbreviation": "BIW",
+        "Full Term": "一週二次"
+    },
+    {
+        "Abbreviation": "HS",
+        "Full Term": "每日睡前"
+    },
+    {
+        "Abbreviation": "PRN",
+        "Full Term": "需要時(不定時)"
+    },
+    {
+        "Abbreviation": "q12h",
+        "Full Term": "每12小時一次"
+    },
+    {
+        "Abbreviation": "q1h",
+        "Full Term": "每1小時一次"
+    },
+    {
+        "Abbreviation": "q2h",
+        "Full Term": "每2小時一次"
+    },
+    {
+        "Abbreviation": "Q3D",
+        "Full Term": "三日1次"
+    },
+    {
+        "Abbreviation": "q3h",
+        "Full Term": "每3小時一次"
+    },
+    {
+        "Abbreviation": "q4h",
+        "Full Term": "每4小時一次"
+    },
+    {
+        "Abbreviation": "q6h",
+        "Full Term": "每6小時一次"
+    },
+    {
+        "Abbreviation": "q8h",
+        "Full Term": "每8小時一次"
+    },
+    {
+        "Abbreviation": "QD",
+        "Full Term": "一日一次(早晨)"
+    },
+    {
+        "Abbreviation": "QID",
+        "Full Term": "一日四次(三餐及睡前)"
+    },
+    {
+        "Abbreviation": "QOD",
+        "Full Term": "二日1次"
+    },
+    {
+        "Abbreviation": "QW",
+        "Full Term": "一週一次"
+    },
+    {
+        "Abbreviation": "St",
+        "Full Term": "立即使用"
+    },
+    {
+        "Abbreviation": "TID",
+        "Full Term": "一日三次"
+    },
+    {
+        "Abbreviation": "TIW",
+        "Full Term": "一週三次"
+    },
+    {
+        "Abbreviation": "QAM",
+        "Full Term": "每日早上"
+    },
+    {
+        "Abbreviation": "QPM",
+        "Full Term": "每日下午"
+    },
+    {
+        "Abbreviation": "QM",
+        "Full Term": "每個中午"
+    },
+    {
+        "Abbreviation": "Once",
+        "Full Term": "只用一次"
+    },
+    {
+        "Abbreviation": "1W2D",
+        "Full Term": "每一星期使用二天"
+    },
+    {
+        "Abbreviation": "1W3D",
+        "Full Term": "每一星期使用三天"
+    },
+    {
+        "Abbreviation": "1W4D",
+        "Full Term": "每一星期使用四天"
+    },
+    {
+        "Abbreviation": "1W5D",
+        "Full Term": "每一星期使用五天"
+    },
+    {
+        "Abbreviation": "1W6D",
+        "Full Term": "每一星期使用六天"
+    },
+    {
+        "Abbreviation": "IR",
+        "Full Term": "自訂用法"
+    },
+    {
+        "Abbreviation": "BIHS",
+        "Full Term": "早、晚及睡前"
+    },
+    {
+        "Abbreviation": "PRN1",
+        "Full Term": "需要時(NTG專用)"
+    },
+    {
+        "Abbreviation": "Q12HP",
+        "Full Term": "需要時12小時1次"
+    },
+    {
+        "Abbreviation": "Q1M",
+        "Full Term": "每月一次"
+    },
+    {
+        "Abbreviation": "QOW",
+        "Full Term": "每二星期一次"
+    },
+    {
+        "Abbreviation": "Q5H",
+        "Full Term": "每5小時1次"
+    },
+    {
+        "Abbreviation": "Q6HP",
+        "Full Term": "需要時6小時1次"
+    },
+    {
+        "Abbreviation": "Q8HP",
+        "Full Term": "需要時8小時1次"
+    },
+    {
+        "Abbreviation": "CM",
+        "Full Term": "翌日早上"
+    },
+    {
+        "Abbreviation": "QN",
+        "Full Term": "每天1次(晚上)"
+    },
+    {
+        "Abbreviation": "QW1",
+        "Full Term": "每星期一使用"
+    },
+    {
+        "Abbreviation": "QW2",
+        "Full Term": "每星期二使用"
+    },
+    {
+        "Abbreviation": "QW3",
+        "Full Term": "每星期三使用"
+    },
+    {
+        "Abbreviation": "QW4",
+        "Full Term": "每星期四使用"
+    },
+    {
+        "Abbreviation": "QW5",
+        "Full Term": "每星期五使用"
+    },
+    {
+        "Abbreviation": "QW6",
+        "Full Term": "每星期六使用"
+    },
+    {
+        "Abbreviation": "QW7",
+        "Full Term": "每星期天使用"
+    }
+]

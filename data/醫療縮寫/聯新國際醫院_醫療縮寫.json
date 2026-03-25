@@ -1,0 +1,2373 @@
+[
+    {
+        "Abbreviation": "A(CMV)",
+        "Full Term": "(Assist)Control Mechanical Ventilation"
+    },
+    {
+        "Abbreviation": "aa",
+        "Full Term": "of each"
+    },
+    {
+        "Abbreviation": "AAA",
+        "Full Term": "abdominal aortic aneurysm"
+    },
+    {
+        "Abbreviation": "ABG",
+        "Full Term": "arterial blood gas"
+    },
+    {
+        "Abbreviation": "ABI",
+        "Full Term": "ankle-brachial index"
+    },
+    {
+        "Abbreviation": "ABX",
+        "Full Term": "antibiotics"
+    },
+    {
+        "Abbreviation": "AC, ac",
+        "Full Term": "antecibos (before meals)"
+    },
+    {
+        "Abbreviation": "ACA",
+        "Full Term": "anterior cerebral artery"
+    },
+    {
+        "Abbreviation": "ADL",
+        "Full Term": "activities of daily living"
+    },
+    {
+        "Abbreviation": "AE",
+        "Full Term": "Acute Exacerbation"
+    },
+    {
+        "Abbreviation": "AF.AFib",
+        "Full Term": "atrial fibrillation"
+    },
+    {
+        "Abbreviation": "AFB",
+        "Full Term": "acid fast bacillus"
+    },
+    {
+        "Abbreviation": "A/G",
+        "Full Term": "albumin globulin ratio"
+    },
+    {
+        "Abbreviation": "AGE",
+        "Full Term": "Acute gastroenteritis"
+    },
+    {
+        "Abbreviation": "AGI",
+        "Full Term": "alpha-glucosidase inhibitors"
+    },
+    {
+        "Abbreviation": "AGN",
+        "Full Term": "acute glomerulonephritis"
+    },
+    {
+        "Abbreviation": "AIDS",
+        "Full Term": "acquired immunodeficiency syndrome"
+    },
+    {
+        "Abbreviation": "AKA",
+        "Full Term": "above knee amputation"
+    },
+    {
+        "Abbreviation": "ALL",
+        "Full Term": "acute lymphocytic leukemia"
+    },
+    {
+        "Abbreviation": "AM",
+        "Full Term": "morning"
+    },
+    {
+        "Abbreviation": "AMA",
+        "Full Term": "against medical advice"
+    },
+    {
+        "Abbreviation": "AMAD",
+        "Full Term": "against medical advice discharge"
+    },
+    {
+        "Abbreviation": "AMI",
+        "Full Term": "Acute myocardial infarction"
+    },
+    {
+        "Abbreviation": "AML",
+        "Full Term": "acute myeloid leukemia"
+    },
+    {
+        "Abbreviation": "AMML",
+        "Full Term": "acute monomyelocytic leukemia"
+    },
+    {
+        "Abbreviation": "amp",
+        "Full Term": "ampule"
+    },
+    {
+        "Abbreviation": "ANA",
+        "Full Term": "anti-nuclear antibody"
+    },
+    {
+        "Abbreviation": "AP",
+        "Full Term": "anteroposterior"
+    },
+    {
+        "Abbreviation": "APN",
+        "Full Term": "Acute pyelonephritis"
+    },
+    {
+        "Abbreviation": "APRV",
+        "Full Term": "airway pressure release ventilation"
+    },
+    {
+        "Abbreviation": "AQ.Aq",
+        "Full Term": "water"
+    },
+    {
+        "Abbreviation": "AR",
+        "Full Term": "aortic regurgitation"
+    },
+    {
+        "Abbreviation": "ARDS",
+        "Full Term": "Acute Respiratory Distress Syndrome"
+    },
+    {
+        "Abbreviation": "ASCVD",
+        "Full Term": "atherosclerotic cardiovascular disease"
+    },
+    {
+        "Abbreviation": "ASD",
+        "Full Term": "atrial-septal defect"
+    },
+    {
+        "Abbreviation": "ASV",
+        "Full Term": "adaptive support ventilation"
+    },
+    {
+        "Abbreviation": "ATN",
+        "Full Term": "acute tubular necrosis"
+    },
+    {
+        "Abbreviation": "AV",
+        "Full Term": "arteriovenous"
+    },
+    {
+        "Abbreviation": "AVF",
+        "Full Term": "arterio-venous fistula"
+    },
+    {
+        "Abbreviation": "BAL",
+        "Full Term": "Bronchoalveolar lavage"
+    },
+    {
+        "Abbreviation": "BBB",
+        "Full Term": "blood-brain barrier"
+    },
+    {
+        "Abbreviation": "BID",
+        "Full Term": "一日2次(早,晚)"
+    },
+    {
+        "Abbreviation": "Bili",
+        "Full Term": "Bilirubin"
+    },
+    {
+        "Abbreviation": "BiPAP",
+        "Full Term": "bilevel positive airway  pressure"
+    },
+    {
+        "Abbreviation": "BI-RADS",
+        "Full Term": "breast imaging reporting & data system"
+    },
+    {
+        "Abbreviation": "BKA",
+        "Full Term": "below knee amputation"
+    },
+    {
+        "Abbreviation": "BM",
+        "Full Term": "Bone marrow"
+    },
+    {
+        "Abbreviation": "BP",
+        "Full Term": "blood pressure"
+    },
+    {
+        "Abbreviation": "BPH",
+        "Full Term": "benign prostatic hypertrophy"
+    },
+    {
+        "Abbreviation": "bpm",
+        "Full Term": "beats per minute"
+    },
+    {
+        "Abbreviation": "BRP",
+        "Full Term": "bathroom privileges"
+    },
+    {
+        "Abbreviation": "BS",
+        "Full Term": "breath sound"
+    },
+    {
+        "Abbreviation": "BSA",
+        "Full Term": "body surface area"
+    },
+    {
+        "Abbreviation": "BSO",
+        "Full Term": "bilateral salpingo-oophorectomy"
+    },
+    {
+        "Abbreviation": "BUN",
+        "Full Term": "blood urea nitrogen"
+    },
+    {
+        "Abbreviation": "Bx",
+        "Full Term": "Biopsy"
+    },
+    {
+        "Abbreviation": "CAP",
+        "Full Term": "community-acquired pneumonia"
+    },
+    {
+        "Abbreviation": "c",
+        "Full Term": "With(Latin:cum)"
+    },
+    {
+        "Abbreviation": "C/W, c/w",
+        "Full Term": "compatible with"
+    },
+    {
+        "Abbreviation": "Ca",
+        "Full Term": "Calcium"
+    },
+    {
+        "Abbreviation": "CA",
+        "Full Term": "carcinoma or cancer"
+    },
+    {
+        "Abbreviation": "CAD",
+        "Full Term": "coronaty artery disease"
+    },
+    {
+        "Abbreviation": "CaO2",
+        "Full Term": "arterial oxygen content"
+    },
+    {
+        "Abbreviation": "CAPD",
+        "Full Term": "continuous ambulatory peritoneal dialysis"
+    },
+    {
+        "Abbreviation": "Cath",
+        "Full Term": "Catheter"
+    },
+    {
+        "Abbreviation": "CBC",
+        "Full Term": "complete blood count"
+    },
+    {
+        "Abbreviation": "CBD",
+        "Full Term": "Common Bile duct"
+    },
+    {
+        "Abbreviation": "CC",
+        "Full Term": "Chief complains"
+    },
+    {
+        "Abbreviation": "CCU",
+        "Full Term": "coronary Care Unit"
+    },
+    {
+        "Abbreviation": "CCWR",
+        "Full Term": "counterclockwise rotation"
+    },
+    {
+        "Abbreviation": "Cdyn",
+        "Full Term": "dynamic compliance"
+    },
+    {
+        "Abbreviation": "CF test",
+        "Full Term": "complement fixation test"
+    },
+    {
+        "Abbreviation": "CGM",
+        "Full Term": "continuous glucose monitoring"
+    },
+    {
+        "Abbreviation": "CGN",
+        "Full Term": "chronic glomerulonephritis"
+    },
+    {
+        "Abbreviation": "CHD",
+        "Full Term": "congenital heart disease"
+    },
+    {
+        "Abbreviation": "CHF",
+        "Full Term": "congestive heart failure"
+    },
+    {
+        "Abbreviation": "Chol",
+        "Full Term": "Cholesterol"
+    },
+    {
+        "Abbreviation": "CKD",
+        "Full Term": "Chronic kidney  disease"
+    },
+    {
+        "Abbreviation": "CKMB",
+        "Full Term": "CPK MB fraction"
+    },
+    {
+        "Abbreviation": "Cl",
+        "Full Term": "Chloride"
+    },
+    {
+        "Abbreviation": "CLL",
+        "Full Term": "chronic lymphocytic leukemia"
+    },
+    {
+        "Abbreviation": "CML",
+        "Full Term": "chronic myelogenous leukemia"
+    },
+    {
+        "Abbreviation": "CMML",
+        "Full Term": "chronic myelomonocytic leukemia"
+    },
+    {
+        "Abbreviation": "CMV",
+        "Full Term": "cytomegalovirus"
+    },
+    {
+        "Abbreviation": "CNS",
+        "Full Term": "central nervous system"
+    },
+    {
+        "Abbreviation": "CO2",
+        "Full Term": "carbon dioxide"
+    },
+    {
+        "Abbreviation": "Conc",
+        "Full Term": "concentration"
+    },
+    {
+        "Abbreviation": "COPD",
+        "Full Term": "chronic obstructive pulmonary disease"
+    },
+    {
+        "Abbreviation": "COVID-19",
+        "Full Term": "Coronavirus disease 2019"
+    },
+    {
+        "Abbreviation": "C/O",
+        "Full Term": "complained of"
+    },
+    {
+        "Abbreviation": "CPAP",
+        "Full Term": "continuous positive airway pressure"
+    },
+    {
+        "Abbreviation": "CPC",
+        "Full Term": "clinicopathological conference"
+    },
+    {
+        "Abbreviation": "CPCR (cardiopulmonary-cerebral resuscitation)",
+        "Full Term": "cardiopulmonary-cerebral resuscitation"
+    },
+    {
+        "Abbreviation": "CPK",
+        "Full Term": "creatinine phosphokinase"
+    },
+    {
+        "Abbreviation": "CPPV",
+        "Full Term": "continuous positive pressure ventilation"
+    },
+    {
+        "Abbreviation": "CPR",
+        "Full Term": "cardiopulmonary resuscitation"
+    },
+    {
+        "Abbreviation": "CPT",
+        "Full Term": "chest physical therapy"
+    },
+    {
+        "Abbreviation": "Cr",
+        "Full Term": "Creatinine"
+    },
+    {
+        "Abbreviation": "CRF",
+        "Full Term": "Chronic renal   failure"
+    },
+    {
+        "Abbreviation": "CRIF",
+        "Full Term": "Closed reduction and internal fixation"
+    },
+    {
+        "Abbreviation": "CSF",
+        "Full Term": "cerebrospinal fluid"
+    },
+    {
+        "Abbreviation": "Cst",
+        "Full Term": "static compliance"
+    },
+    {
+        "Abbreviation": "C/S",
+        "Full Term": "caesarean section"
+    },
+    {
+        "Abbreviation": "C/T",
+        "Full Term": "chemotherapy"
+    },
+    {
+        "Abbreviation": "CT",
+        "Full Term": "computed tomography"
+    },
+    {
+        "Abbreviation": "Cu",
+        "Full Term": "copper"
+    },
+    {
+        "Abbreviation": "CV",
+        "Full Term": "Cardiovascular"
+    },
+    {
+        "Abbreviation": "CVA",
+        "Full Term": "cerebrovascular accident"
+    },
+    {
+        "Abbreviation": "CVP",
+        "Full Term": "Central venous pressure"
+    },
+    {
+        "Abbreviation": "CXR",
+        "Full Term": "chest X-ray"
+    },
+    {
+        "Abbreviation": "D2B",
+        "Full Term": "door-to-ballon"
+    },
+    {
+        "Abbreviation": "Dbil",
+        "Full Term": "direct bilirubin"
+    },
+    {
+        "Abbreviation": "DBP",
+        "Full Term": "diastolic blood pressure"
+    },
+    {
+        "Abbreviation": "D&C",
+        "Full Term": "dilatation and curettage"
+    },
+    {
+        "Abbreviation": "DC",
+        "Full Term": "Discontinue"
+    },
+    {
+        "Abbreviation": "DERM",
+        "Full Term": "Dermatology"
+    },
+    {
+        "Abbreviation": "DIC",
+        "Full Term": "disseminated intravascular coagulation"
+    },
+    {
+        "Abbreviation": "DIP",
+        "Full Term": "distal interphalangeal"
+    },
+    {
+        "Abbreviation": "Ditto",
+        "Full Term": "the same"
+    },
+    {
+        "Abbreviation": "DJD",
+        "Full Term": "degenerative joint disease"
+    },
+    {
+        "Abbreviation": "DKA",
+        "Full Term": "diabetic ketoacidosis"
+    },
+    {
+        "Abbreviation": "DM",
+        "Full Term": "diabetes mellitus"
+    },
+    {
+        "Abbreviation": "DNR",
+        "Full Term": "do not resuscitate"
+    },
+    {
+        "Abbreviation": "DOB",
+        "Full Term": "date of birth"
+    },
+    {
+        "Abbreviation": "DOE",
+        "Full Term": "dyspnea on exertion"
+    },
+    {
+        "Abbreviation": "DPP4i",
+        "Full Term": "dipeptidyl peptidase-4 inhibitors​"
+    },
+    {
+        "Abbreviation": "DPT",
+        "Full Term": "diphtheria-pertussis-tetanus"
+    },
+    {
+        "Abbreviation": "Dr",
+        "Full Term": "Doctor"
+    },
+    {
+        "Abbreviation": "DRE",
+        "Full Term": "digital rectal examination"
+    },
+    {
+        "Abbreviation": "DTR",
+        "Full Term": "deep tendon reflex"
+    },
+    {
+        "Abbreviation": "DU",
+        "Full Term": "Duodenal ulcer"
+    },
+    {
+        "Abbreviation": "DVT",
+        "Full Term": "deep venous thrombosis"
+    },
+    {
+        "Abbreviation": "D5W",
+        "Full Term": "dextrose 5% in water"
+    },
+    {
+        "Abbreviation": "Dx",
+        "Full Term": "diagnosis"
+    },
+    {
+        "Abbreviation": "e.g.",
+        "Full Term": "for example"
+    },
+    {
+        "Abbreviation": "ECG",
+        "Full Term": "electrocardiogram"
+    },
+    {
+        "Abbreviation": "ECMO",
+        "Full Term": "extracorporeal membrane oxygenation"
+    },
+    {
+        "Abbreviation": "EEG",
+        "Full Term": "electroencephalogram"
+    },
+    {
+        "Abbreviation": "EENT",
+        "Full Term": "eye-ear-nose-throat"
+    },
+    {
+        "Abbreviation": "eGFR",
+        "Full Term": "estimated glomerular filtration rate"
+    },
+    {
+        "Abbreviation": "EKC",
+        "Full Term": "epidemic keratoconjunctivitis"
+    },
+    {
+        "Abbreviation": "EKG",
+        "Full Term": "electrocardiogram"
+    },
+    {
+        "Abbreviation": "ELISA",
+        "Full Term": "Enzyme-linked immunosorbent assay"
+    },
+    {
+        "Abbreviation": "ELIX",
+        "Full Term": "Elixir"
+    },
+    {
+        "Abbreviation": "EMG",
+        "Full Term": "electromyography,electromyogram"
+    },
+    {
+        "Abbreviation": "ENEM",
+        "Full Term": "灌腸"
+    },
+    {
+        "Abbreviation": "ENT",
+        "Full Term": "ear-nose-throat"
+    },
+    {
+        "Abbreviation": "EOM",
+        "Full Term": "extraocular movements"
+    },
+    {
+        "Abbreviation": "Eos",
+        "Full Term": "Eosinophils"
+    },
+    {
+        "Abbreviation": "EPAP",
+        "Full Term": "expiratory positive airway pressure"
+    },
+    {
+        "Abbreviation": "ER",
+        "Full Term": "emergency room"
+    },
+    {
+        "Abbreviation": "ERCP",
+        "Full Term": "endoscopic retrograde cholangiopancreatography"
+    },
+    {
+        "Abbreviation": "ESR",
+        "Full Term": "erythrocyte sedimentation rate"
+    },
+    {
+        "Abbreviation": "ESRD",
+        "Full Term": "end-stage renal disease"
+    },
+    {
+        "Abbreviation": "ESWL",
+        "Full Term": "Extracorporeal shock wave lithotripsy"
+    },
+    {
+        "Abbreviation": "ET CO2",
+        "Full Term": "end tidal carbon dioxide"
+    },
+    {
+        "Abbreviation": "ET tube",
+        "Full Term": "endotracheal tube"
+    },
+    {
+        "Abbreviation": "Ext",
+        "Full Term": "extremity"
+    },
+    {
+        "Abbreviation": "F/U",
+        "Full Term": "follow-up"
+    },
+    {
+        "Abbreviation": "FBS",
+        "Full Term": "fasting blood sugar"
+    },
+    {
+        "Abbreviation": "FDP",
+        "Full Term": "fibrin degradation product"
+    },
+    {
+        "Abbreviation": "Fe",
+        "Full Term": "iron"
+    },
+    {
+        "Abbreviation": "FESS",
+        "Full Term": "Functional Endoscopic Sinus Surgery"
+    },
+    {
+        "Abbreviation": "FEV1",
+        "Full Term": "forced expiratory volume in the first second"
+    },
+    {
+        "Abbreviation": "FFP",
+        "Full Term": "fresh frozen plasma"
+    },
+    {
+        "Abbreviation": "FHx",
+        "Full Term": "family history"
+    },
+    {
+        "Abbreviation": "FiO2",
+        "Full Term": "the fraction of inspired oxygen"
+    },
+    {
+        "Abbreviation": "FRC",
+        "Full Term": "functional residual capacity"
+    },
+    {
+        "Abbreviation": "FSH",
+        "Full Term": "follicle stimulating hormone"
+    },
+    {
+        "Abbreviation": "F/S",
+        "Full Term": "finger stick"
+    },
+    {
+        "Abbreviation": "Ft",
+        "Full Term": "feet"
+    },
+    {
+        "Abbreviation": "FUO",
+        "Full Term": "fever of unknown origin"
+    },
+    {
+        "Abbreviation": "FVC",
+        "Full Term": "forced vital capacity"
+    },
+    {
+        "Abbreviation": "Fx",
+        "Full Term": "fracture"
+    },
+    {
+        "Abbreviation": "GB",
+        "Full Term": "gallbladder"
+    },
+    {
+        "Abbreviation": "GC",
+        "Full Term": "gonorrhea(gonococcal)"
+    },
+    {
+        "Abbreviation": "GERD",
+        "Full Term": "Gastroesophageal reflux disease"
+    },
+    {
+        "Abbreviation": "GGT",
+        "Full Term": "gamma glutamyl transferase"
+    },
+    {
+        "Abbreviation": "GI",
+        "Full Term": "gastrointestinal"
+    },
+    {
+        "Abbreviation": "GOT",
+        "Full Term": "glutamic-oxaloacetic transaminase"
+    },
+    {
+        "Abbreviation": "GPAASA",
+        "Full Term": "gravida, para, artificial abortion, spontaneous abortion"
+    },
+    {
+        "Abbreviation": "GPT",
+        "Full Term": "glutamic-pyruvic transaminase"
+    },
+    {
+        "Abbreviation": "GTT",
+        "Full Term": "glucose tolerance test"
+    },
+    {
+        "Abbreviation": "gtt(s)",
+        "Full Term": "drops(Latin:guttae)"
+    },
+    {
+        "Abbreviation": "GU",
+        "Full Term": "genitourinary 或是 gastric ulcer (視前後文而定)"
+    },
+    {
+        "Abbreviation": "GYN",
+        "Full Term": "gynecology"
+    },
+    {
+        "Abbreviation": "HbA1c/A1c",
+        "Full Term": "glycated hemoglobin"
+    },
+    {
+        "Abbreviation": "HBsAb",
+        "Full Term": "hepatitis B surface antibody"
+    },
+    {
+        "Abbreviation": "HBsAg",
+        "Full Term": "hepatitis B surface antigen"
+    },
+    {
+        "Abbreviation": "HCC",
+        "Full Term": "Hepatocellular carcinoma"
+    },
+    {
+        "Abbreviation": "Hct",
+        "Full Term": "hematocrit"
+    },
+    {
+        "Abbreviation": "HCVD",
+        "Full Term": "hypertensive cardiovascular disease"
+    },
+    {
+        "Abbreviation": "H/D",
+        "Full Term": "hemodialysis"
+    },
+    {
+        "Abbreviation": "HD",
+        "Full Term": "hemodialysis"
+    },
+    {
+        "Abbreviation": "HDL",
+        "Full Term": "high-density lipoprotein"
+    },
+    {
+        "Abbreviation": "HEENT",
+        "Full Term": "head-eyes-ears-nose-throat"
+    },
+    {
+        "Abbreviation": "HGB",
+        "Full Term": "hemoglobin"
+    },
+    {
+        "Abbreviation": "HHS",
+        "Full Term": "hyperglycemic hyperosmolar state"
+    },
+    {
+        "Abbreviation": "HIV",
+        "Full Term": "human immunodeficiency virus"
+    },
+    {
+        "Abbreviation": "HIVD",
+        "Full Term": "Herniation of Intervertebral Disc"
+    },
+    {
+        "Abbreviation": "HLA",
+        "Full Term": "human leukocyte antigen"
+    },
+    {
+        "Abbreviation": "H5N的HN",
+        "Full Term": "Hemagglutinin(HA)   Neuraminidase (NA)"
+    },
+    {
+        "Abbreviation": "H&P",
+        "Full Term": "history and physical"
+    },
+    {
+        "Abbreviation": "HR",
+        "Full Term": "heart rate"
+    },
+    {
+        "Abbreviation": "HS",
+        "Full Term": "hora sommi"
+    },
+    {
+        "Abbreviation": "HSV",
+        "Full Term": "herpes simplex virus"
+    },
+    {
+        "Abbreviation": "HTN",
+        "Full Term": "Hypertention"
+    },
+    {
+        "Abbreviation": "Hx",
+        "Full Term": "history"
+    },
+    {
+        "Abbreviation": "(S)IMV",
+        "Full Term": "(Synchronized)Intermittent Mandatory Ventilation"
+    },
+    {
+        "Abbreviation": "I time",
+        "Full Term": "inspiratory time"
+    },
+    {
+        "Abbreviation": "I&D",
+        "Full Term": "incision and drainage"
+    },
+    {
+        "Abbreviation": "I&O",
+        "Full Term": "input and output"
+    },
+    {
+        "Abbreviation": "I:E ratio",
+        "Full Term": "inspiratory/expiratory ratio"
+    },
+    {
+        "Abbreviation": "IA",
+        "Full Term": "intra-arterial"
+    },
+    {
+        "Abbreviation": "IABP",
+        "Full Term": "intra-aortic balloon pump"
+    },
+    {
+        "Abbreviation": "IASD",
+        "Full Term": "interatrial septal defect"
+    },
+    {
+        "Abbreviation": "ICH",
+        "Full Term": "intracranial hemorrhage"
+    },
+    {
+        "Abbreviation": "ICLBBB",
+        "Full Term": "incomplete left bundle branch block"
+    },
+    {
+        "Abbreviation": "ICP",
+        "Full Term": "intracranial pressure"
+    },
+    {
+        "Abbreviation": "ICRBBB",
+        "Full Term": "incomplete right bundle branch block"
+    },
+    {
+        "Abbreviation": "ICU",
+        "Full Term": "intensive care unit"
+    },
+    {
+        "Abbreviation": "IDS",
+        "Full Term": "integrated delivery system"
+    },
+    {
+        "Abbreviation": "IHCA",
+        "Full Term": "in-hospital cardiac arrest"
+    },
+    {
+        "Abbreviation": "IM",
+        "Full Term": "肌肉注射"
+    },
+    {
+        "Abbreviation": "IMV",
+        "Full Term": "intermittent mandatory ventilation"
+    },
+    {
+        "Abbreviation": "INAR",
+        "Full Term": "關節內注射"
+    },
+    {
+        "Abbreviation": "inh.",
+        "Full Term": "吸入"
+    },
+    {
+        "Abbreviation": "IPAP",
+        "Full Term": "inspiratory positive airway pressure"
+    },
+    {
+        "Abbreviation": "IPF",
+        "Full Term": "Idiopathic   Pulmonary Fibrosis"
+    },
+    {
+        "Abbreviation": "IPjt",
+        "Full Term": "interphalangeal joint"
+    },
+    {
+        "Abbreviation": "IPPB",
+        "Full Term": "intermittent positive pressure breathing"
+    },
+    {
+        "Abbreviation": "IQ",
+        "Full Term": "intelligence quotient"
+    },
+    {
+        "Abbreviation": "IS",
+        "Full Term": "incentive spirometry"
+    },
+    {
+        "Abbreviation": "IT",
+        "Full Term": "Intrathecal"
+    },
+    {
+        "Abbreviation": "ITP",
+        "Full Term": "idiopathic thrombocytopenic purpura"
+    },
+    {
+        "Abbreviation": "IUD",
+        "Full Term": "intrauterine device"
+    },
+    {
+        "Abbreviation": "IV",
+        "Full Term": "Intravenous"
+    },
+    {
+        "Abbreviation": "IVAC",
+        "Full Term": "靜脈自動控制幫浦"
+    },
+    {
+        "Abbreviation": "IVC",
+        "Full Term": "inferior vena cava"
+    },
+    {
+        "Abbreviation": "IVD",
+        "Full Term": "靜脈點滴注射"
+    },
+    {
+        "Abbreviation": "IVF",
+        "Full Term": "靜脈點滴"
+    },
+    {
+        "Abbreviation": "IVP(IVU)",
+        "Full Term": "intravenous pyelogram"
+    },
+    {
+        "Abbreviation": "IVPB",
+        "Full Term": "intravenous piggyback"
+    },
+    {
+        "Abbreviation": "kcals",
+        "Full Term": "Kilocalories"
+    },
+    {
+        "Abbreviation": "KUB",
+        "Full Term": "kidneys,ureter,bladder"
+    },
+    {
+        "Abbreviation": "Lab",
+        "Full Term": "Laboratory"
+    },
+    {
+        "Abbreviation": "LAD",
+        "Full Term": "left anterior descending coronary artery"
+    },
+    {
+        "Abbreviation": "LAO",
+        "Full Term": "left anterior oblique"
+    },
+    {
+        "Abbreviation": "LAT",
+        "Full Term": "Lateral"
+    },
+    {
+        "Abbreviation": "LBBB",
+        "Full Term": "left bundle branch block"
+    },
+    {
+        "Abbreviation": "LCX",
+        "Full Term": "left circumflex coronary artery"
+    },
+    {
+        "Abbreviation": "LDH",
+        "Full Term": "lactic dehydrogenase"
+    },
+    {
+        "Abbreviation": "LDL",
+        "Full Term": "low-density lipoprotein"
+    },
+    {
+        "Abbreviation": "LFT",
+        "Full Term": "liver function test"
+    },
+    {
+        "Abbreviation": "LGI",
+        "Full Term": "lower gastrointestinal"
+    },
+    {
+        "Abbreviation": "LH",
+        "Full Term": "luteinizing hormone"
+    },
+    {
+        "Abbreviation": "Li",
+        "Full Term": "Lithium"
+    },
+    {
+        "Abbreviation": "liq",
+        "Full Term": "Liquid"
+    },
+    {
+        "Abbreviation": "LLL",
+        "Full Term": "left lower lobe"
+    },
+    {
+        "Abbreviation": "LLQ",
+        "Full Term": "left lower quadrant"
+    },
+    {
+        "Abbreviation": "LLSB",
+        "Full Term": "left lower sternal border"
+    },
+    {
+        "Abbreviation": "LM",
+        "Full Term": "left main coronary artery"
+    },
+    {
+        "Abbreviation": "LMD",
+        "Full Term": "local medical doctor"
+    },
+    {
+        "Abbreviation": "LML",
+        "Full Term": "left middle lobe"
+    },
+    {
+        "Abbreviation": "LMP",
+        "Full Term": "last menstrual period"
+    },
+    {
+        "Abbreviation": "LOC",
+        "Full Term": "loss of consciousness"
+    },
+    {
+        "Abbreviation": "LP",
+        "Full Term": "lumbar puncture"
+    },
+    {
+        "Abbreviation": "LPR",
+        "Full Term": "LPR (Leukocyte-Poor RBC)"
+    },
+    {
+        "Abbreviation": "L/R",
+        "Full Term": "lactate ringer"
+    },
+    {
+        "Abbreviation": "L't",
+        "Full Term": "left"
+    },
+    {
+        "Abbreviation": "LUL",
+        "Full Term": "left upper lobe"
+    },
+    {
+        "Abbreviation": "LUQ",
+        "Full Term": "left upper quadrant"
+    },
+    {
+        "Abbreviation": "LV",
+        "Full Term": "left ventricle"
+    },
+    {
+        "Abbreviation": "LVEF",
+        "Full Term": "left ventricular ejection fraction"
+    },
+    {
+        "Abbreviation": "LVH",
+        "Full Term": "left ventricular hypertrophy"
+    },
+    {
+        "Abbreviation": "L/W",
+        "Full Term": "laceration wound"
+    },
+    {
+        "Abbreviation": "Lymph",
+        "Full Term": "lymphocytes"
+    },
+    {
+        "Abbreviation": "MCA",
+        "Full Term": "middle cerebral artery"
+    },
+    {
+        "Abbreviation": "MAP",
+        "Full Term": "mean arterial pressure"
+    },
+    {
+        "Abbreviation": "mcg",
+        "Full Term": "microgram"
+    },
+    {
+        "Abbreviation": "MCL",
+        "Full Term": "midclavicular line"
+    },
+    {
+        "Abbreviation": "MCP",
+        "Full Term": "metacarpophalangeal"
+    },
+    {
+        "Abbreviation": "MD",
+        "Full Term": "medical doctor"
+    },
+    {
+        "Abbreviation": "MDI",
+        "Full Term": "metered dose inhaler"
+    },
+    {
+        "Abbreviation": "mg",
+        "Full Term": "milligram"
+    },
+    {
+        "Abbreviation": "MICU",
+        "Full Term": "medical intensive care unit"
+    },
+    {
+        "Abbreviation": "mL",
+        "Full Term": "Milliliter(syn.cc)"
+    },
+    {
+        "Abbreviation": "mm",
+        "Full Term": "1 millimeter"
+    },
+    {
+        "Abbreviation": "MMSE",
+        "Full Term": "mini-mental state examination"
+    },
+    {
+        "Abbreviation": "Mono",
+        "Full Term": "Monocyte"
+    },
+    {
+        "Abbreviation": "MR",
+        "Full Term": "mitral regurgitation"
+    },
+    {
+        "Abbreviation": "MRI",
+        "Full Term": "Magnetic resonance imaging"
+    },
+    {
+        "Abbreviation": "MTP",
+        "Full Term": "metatarsophalangeal"
+    },
+    {
+        "Abbreviation": "MTX",
+        "Full Term": "methotrexate"
+    },
+    {
+        "Abbreviation": "MV",
+        "Full Term": "Mechanical ventilation"
+    },
+    {
+        "Abbreviation": "MVA",
+        "Full Term": "motor vehicle accident"
+    },
+    {
+        "Abbreviation": "MVR",
+        "Full Term": "mitral valve replacement"
+    },
+    {
+        "Abbreviation": "MVV",
+        "Full Term": "maximum voluntary ventilation"
+    },
+    {
+        "Abbreviation": "N/C",
+        "Full Term": "nasal cannula"
+    },
+    {
+        "Abbreviation": "Na",
+        "Full Term": "Sodium"
+    },
+    {
+        "Full Term": "鼻用"
+    },
+    {
+        "Abbreviation": "NASA",
+        "Full Term": "鼻噴劑"
+    },
+    {
+        "Abbreviation": "NB",
+        "Full Term": "Newborn"
+    },
+    {
+        "Abbreviation": "NE",
+        "Full Term": "neurological examination"
+    },
+    {
+        "Abbreviation": "NEG or neg",
+        "Full Term": "Negative"
+    },
+    {
+        "Abbreviation": "NEURO",
+        "Full Term": "neurology, neurologist"
+    },
+    {
+        "Abbreviation": "NG",
+        "Full Term": "nasogastric"
+    },
+    {
+        "Abbreviation": "ng",
+        "Full Term": "nanogram"
+    },
+    {
+        "Abbreviation": "NH3",
+        "Full Term": "ammonia"
+    },
+    {
+        "Abbreviation": "NICU",
+        "Full Term": "neonatal intensive care unit"
+    },
+    {
+        "Abbreviation": "NIDDM",
+        "Full Term": "non-insulin dependent diabetes mellitus"
+    },
+    {
+        "Abbreviation": "NIPPV",
+        "Full Term": "noninvasive positive pressure ventilation"
+    },
+    {
+        "Abbreviation": "NKA",
+        "Full Term": "no known allergy"
+    },
+    {
+        "Abbreviation": "NM",
+        "Full Term": "nuclear medicine"
+    },
+    {
+        "Abbreviation": "NMR",
+        "Full Term": "nuclear magnetic resonance"
+    },
+    {
+        "Abbreviation": "NPC",
+        "Full Term": "nasopharyngeal cancer"
+    },
+    {
+        "Abbreviation": "NPDR",
+        "Full Term": "non-proliferative diabetic retinopathy"
+    },
+    {
+        "Abbreviation": "NPO",
+        "Full Term": "nothing per os (nothing by mouth)"
+    },
+    {
+        "Abbreviation": "N-R-M",
+        "Full Term": "non-rebreathing mask"
+    },
+    {
+        "Abbreviation": "NS",
+        "Full Term": "neurosurgery, neurosurgeon"
+    },
+    {
+        "Abbreviation": "N/S",
+        "Full Term": "normal saline"
+    },
+    {
+        "Abbreviation": "NSAID",
+        "Full Term": "nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Abbreviation": "NSCLC",
+        "Full Term": "non-small cell lung cancer"
+    },
+    {
+        "Abbreviation": "NSD",
+        "Full Term": "normal spontaneous delivery"
+    },
+    {
+        "Abbreviation": "NSR",
+        "Full Term": "normal sinus rhythm"
+    },
+    {
+        "Abbreviation": "NSTEMI",
+        "Full Term": "non-ST-segment elevation myocardial infarction"
+    },
+    {
+        "Abbreviation": "NTG",
+        "Full Term": "nitroglycerin"
+    },
+    {
+        "Abbreviation": "NTM",
+        "Full Term": "nontuberculous mycobacteria"
+    },
+    {
+        "Abbreviation": "NYHA",
+        "Full Term": "New York Heart Association"
+    },
+    {
+        "Abbreviation": "OA",
+        "Full Term": "osteoarthritis"
+    },
+    {
+        "Abbreviation": "OAD",
+        "Full Term": "oral antidiabetic drugs"
+    },
+    {
+        "Abbreviation": "OB",
+        "Full Term": "occult blood"
+    },
+    {
+        "Abbreviation": "OGTT",
+        "Full Term": "oral glucose tolerance test"
+    },
+    {
+        "Abbreviation": "OHCA",
+        "Full Term": "Out-of-hospital cardiac arrest"
+    },
+    {
+        "Abbreviation": "ONCE",
+        "Full Term": "只用一次"
+    },
+    {
+        "Abbreviation": "OP",
+        "Full Term": "Operation"
+    },
+    {
+        "Abbreviation": "OPD",
+        "Full Term": "outpatient department"
+    },
+    {
+        "Abbreviation": "Ophth",
+        "Full Term": "ophthalmology"
+    },
+    {
+        "Abbreviation": "OR",
+        "Full Term": "Operation room"
+    },
+    {
+        "Abbreviation": "ORIF",
+        "Full Term": "open reduction/internal fixation"
+    },
+    {
+        "Abbreviation": "ORSA/MRSA",
+        "Full Term": "Oxacillin-resistant Staphylococcus aureus/Methicillin-resistant Staphylococcus aureus"
+    },
+    {
+        "Abbreviation": "OSA",
+        "Full Term": "obstructive sleep apnea"
+    },
+    {
+        "Abbreviation": "OSSA/MSSA",
+        "Full Term": "Oxacillin-susceptible Staphylococcus aureus/Methicillin-susceptile Staphylococcus aureus"
+    },
+    {
+        "Abbreviation": "Oz",
+        "Full Term": "Ounce"
+    },
+    {
+        "Abbreviation": "P",
+        "Full Term": "phosphorus"
+    },
+    {
+        "Abbreviation": "P0.1",
+        "Full Term": "pressure point one(0.1 second)"
+    },
+    {
+        "Abbreviation": "PA",
+        "Full Term": "posterior-anterior"
+    },
+    {
+        "Abbreviation": "PAF",
+        "Full Term": "paroxysmal atrial fibrillation"
+    },
+    {
+        "Abbreviation": "PAOD",
+        "Full Term": "peripheral arterial occlusive disease"
+    },
+    {
+        "Abbreviation": "Para",
+        "Full Term": "number of living children"
+    },
+    {
+        "Abbreviation": "Path",
+        "Full Term": "pathology"
+    },
+    {
+        "Abbreviation": "PC, pc",
+        "Full Term": "飯後服用"
+    },
+    {
+        "Abbreviation": "PCA",
+        "Full Term": "patient-controlled analgesia 或是 posterior cerebral artery (視前後文而定)"
+    },
+    {
+        "Abbreviation": "PCI",
+        "Full Term": "percutaneous coronary intervention"
+    },
+    {
+        "Abbreviation": "PCP",
+        "Full Term": "penumocystis carinii penumonia"
+    },
+    {
+        "Abbreviation": "PCV",
+        "Full Term": "Pressure Control Ventilation"
+    },
+    {
+        "Abbreviation": "PDA",
+        "Full Term": "patent ductus arteriosus"
+    },
+    {
+        "Abbreviation": "PDR",
+        "Full Term": "proliferative diabetic retinopathy"
+    },
+    {
+        "Abbreviation": "PE",
+        "Full Term": "physical examination"
+    },
+    {
+        "Abbreviation": "Pe max",
+        "Full Term": "maximum expiratory pressure"
+    },
+    {
+        "Abbreviation": "PEEP",
+        "Full Term": "positive end expiratory pressure"
+    },
+    {
+        "Abbreviation": "PEFR",
+        "Full Term": "peak expiratory flowrate"
+    },
+    {
+        "Abbreviation": "PES",
+        "Full Term": "panendoscopy"
+    },
+    {
+        "Abbreviation": "PET",
+        "Full Term": "PET (positron emission tomography)"
+    },
+    {
+        "Abbreviation": "PF(PEFR)",
+        "Full Term": "peak flowrate"
+    },
+    {
+        "Abbreviation": "PFT",
+        "Full Term": "pulmonary function test"
+    },
+    {
+        "Abbreviation": "pH",
+        "Full Term": "acid base"
+    },
+    {
+        "Abbreviation": "Phigh",
+        "Full Term": "high pressure level"
+    },
+    {
+        "Abbreviation": "Pi max",
+        "Full Term": "maximum inspiratory pressure"
+    },
+    {
+        "Abbreviation": "PID",
+        "Full Term": "pelvic inflammatory disease"
+    },
+    {
+        "Abbreviation": "PIP",
+        "Full Term": "peak inspiratory pressure"
+    },
+    {
+        "Abbreviation": "PKU",
+        "Full Term": "phenylketonuria"
+    },
+    {
+        "Abbreviation": "Plimit",
+        "Full Term": "pressure limit"
+    },
+    {
+        "Abbreviation": "Plow",
+        "Full Term": "low pressure level"
+    },
+    {
+        "Abbreviation": "pm",
+        "Full Term": "Afternoon or evening"
+    },
+    {
+        "Abbreviation": "Pmean(MAP)",
+        "Full Term": "mean airway pressure"
+    },
+    {
+        "Abbreviation": "PMI",
+        "Full Term": "point of maximal impulse"
+    },
+    {
+        "Abbreviation": "PMS",
+        "Full Term": "premenstrual syndrome"
+    },
+    {
+        "Abbreviation": "PO",
+        "Full Term": "口服"
+    },
+    {
+        "Abbreviation": "PO2",
+        "Full Term": "partial pressure of oxygen"
+    },
+    {
+        "Abbreviation": "POBA",
+        "Full Term": "plain old balloon angioplasty"
+    },
+    {
+        "Abbreviation": "POMR",
+        "Full Term": "problem-oriented medical record"
+    },
+    {
+        "Abbreviation": "POR",
+        "Full Term": "post-operative room"
+    },
+    {
+        "Abbreviation": "post-op",
+        "Full Term": "after operation"
+    },
+    {
+        "Abbreviation": "pp",
+        "Full Term": "postprandial"
+    },
+    {
+        "Abbreviation": "PPD",
+        "Full Term": "purified protein derivative(tuberculin)"
+    },
+    {
+        "Abbreviation": "ppd",
+        "Full Term": "packs per day"
+    },
+    {
+        "Abbreviation": "Ppeak",
+        "Full Term": "peak airway pressure"
+    },
+    {
+        "Abbreviation": "PPH",
+        "Full Term": "postpartum hemorrhage"
+    },
+    {
+        "Abbreviation": "PPI",
+        "Full Term": "proton-pump inhibitor"
+    },
+    {
+        "Abbreviation": "Pplateau(Pplat)",
+        "Full Term": "plateau pressure"
+    },
+    {
+        "Abbreviation": "PPM",
+        "Full Term": "permanent pacemaker"
+    },
+    {
+        "Abbreviation": "PPU",
+        "Full Term": "PPU (perforated peptic ulcer)"
+    },
+    {
+        "Abbreviation": "pre-op",
+        "Full Term": "before operation"
+    },
+    {
+        "Abbreviation": "PRN",
+        "Full Term": "需要時(不定時)"
+    },
+    {
+        "Abbreviation": "PRP",
+        "Full Term": "platelet-rich plasma"
+    },
+    {
+        "Abbreviation": "PRVC",
+        "Full Term": "pressure regulated volume control"
+    },
+    {
+        "Abbreviation": "PS",
+        "Full Term": "pressure support"
+    },
+    {
+        "Abbreviation": "PSA",
+        "Full Term": "prostate specific antigen"
+    },
+    {
+        "Abbreviation": "PSV",
+        "Full Term": "pressure support ventilation"
+    },
+    {
+        "Abbreviation": "PSVT",
+        "Full Term": "Paroxysmal supraventricular tachycardia"
+    },
+    {
+        "Abbreviation": "PT",
+        "Full Term": "prothrombin time"
+    },
+    {
+        "Abbreviation": "pt",
+        "Full Term": "Patient"
+    },
+    {
+        "Abbreviation": "PTA",
+        "Full Term": "percutaneous transluminal angioplasty"
+    },
+    {
+        "Abbreviation": "PTCA",
+        "Full Term": "percutaneous transluminal coronary angioplasty"
+    },
+    {
+        "Abbreviation": "PTCD",
+        "Full Term": "percutaneous transhepatic cholangiography and drainage"
+    },
+    {
+        "Abbreviation": "PTGBD",
+        "Full Term": "percutaneous transhepatic gallbladder drainage"
+    },
+    {
+        "Abbreviation": "PTH",
+        "Full Term": "parathyroid hormone"
+    },
+    {
+        "Abbreviation": "PTP",
+        "Full Term": "pressure time product"
+    },
+    {
+        "Abbreviation": "PTSD",
+        "Full Term": "post-traumatic stress disorder"
+    },
+    {
+        "Abbreviation": "PTT",
+        "Full Term": "partial thromboplastin time"
+    },
+    {
+        "Abbreviation": "PTU",
+        "Full Term": "propylthiouracil"
+    },
+    {
+        "Abbreviation": "PUD",
+        "Full Term": "Peptic ulcer disease"
+    },
+    {
+        "Abbreviation": "PVC",
+        "Full Term": "peripheral ventricular contraction"
+    },
+    {
+        "Abbreviation": "PVD",
+        "Full Term": "peripheral vascular disease"
+    },
+    {
+        "Abbreviation": "Pyelo",
+        "Full Term": "pyelonephritis"
+    },
+    {
+        "Abbreviation": "Q",
+        "Full Term": "Every"
+    },
+    {
+        "Abbreviation": "Q12H",
+        "Full Term": "每12小時1次"
+    },
+    {
+        "Abbreviation": "q1h",
+        "Full Term": "每1小時1次"
+    },
+    {
+        "Abbreviation": "q2h",
+        "Full Term": "每2小時1次"
+    },
+    {
+        "Abbreviation": "Q3D",
+        "Full Term": "三日1次"
+    },
+    {
+        "Abbreviation": "q3h",
+        "Full Term": "每3小時1次"
+    },
+    {
+        "Abbreviation": "Q4D",
+        "Full Term": "四日1次"
+    },
+    {
+        "Abbreviation": "q4h",
+        "Full Term": "每4小時1次"
+    },
+    {
+        "Abbreviation": "Q5D",
+        "Full Term": "五日1次"
+    },
+    {
+        "Abbreviation": "Q6D",
+        "Full Term": "六日1次"
+    },
+    {
+        "Abbreviation": "q6h",
+        "Full Term": "每6小時1次"
+    },
+    {
+        "Abbreviation": "q8h",
+        "Full Term": "每8小時1次"
+    },
+    {
+        "Abbreviation": "QD",
+        "Full Term": "一日1次(早晨)"
+    },
+    {
+        "Abbreviation": "QDAM",
+        "Full Term": "every morning"
+    },
+    {
+        "Abbreviation": "QDPM",
+        "Full Term": "每日下午"
+    },
+    {
+        "Abbreviation": "QID",
+        "Full Term": "一日4次(三餐及睡前)"
+    },
+    {
+        "Abbreviation": "QOD",
+        "Full Term": "二日1次"
+    },
+    {
+        "Abbreviation": "Qt",
+        "Full Term": "Quart"
+    },
+    {
+        "Abbreviation": "QW",
+        "Full Term": "一週1次"
+    },
+    {
+        "Abbreviation": "R/O",
+        "Full Term": "rule out"
+    },
+    {
+        "Abbreviation": "R/T",
+        "Full Term": "radiotherapy"
+    },
+    {
+        "Abbreviation": "RA",
+        "Full Term": "rheumatoid arthritis"
+    },
+    {
+        "Abbreviation": "RAD",
+        "Full Term": "Radiation-absorbed dose"
+    },
+    {
+        "Abbreviation": "Raw",
+        "Full Term": "airway resistance"
+    },
+    {
+        "Abbreviation": "RBBB",
+        "Full Term": "right bundle branch block"
+    },
+    {
+        "Abbreviation": "RBC",
+        "Full Term": "red blood cell"
+    },
+    {
+        "Abbreviation": "RCA",
+        "Full Term": "right coronary artery"
+    },
+    {
+        "Abbreviation": "RCC",
+        "Full Term": "Respiratory Care Center"
+    },
+    {
+        "Abbreviation": "RCW",
+        "Full Term": "Respiratory Care Ward"
+    },
+    {
+        "Abbreviation": "RDS",
+        "Full Term": "Respiratory distress syndrome"
+    },
+    {
+        "Abbreviation": "Rehab",
+        "Full Term": "rehabilitation"
+    },
+    {
+        "Abbreviation": "REM",
+        "Full Term": "rapid eye movement"
+    },
+    {
+        "Abbreviation": "Resp",
+        "Full Term": "respiration,respiratroy"
+    },
+    {
+        "Abbreviation": "RF",
+        "Full Term": "rheumatoid factor"
+    },
+    {
+        "Abbreviation": "RFA",
+        "Full Term": "radiofrequency ablation"
+    },
+    {
+        "Abbreviation": "Rh Neg",
+        "Full Term": "rhesus factor negative"
+    },
+    {
+        "Abbreviation": "Rh Pos",
+        "Full Term": "rhesus factor positive"
+    },
+    {
+        "Abbreviation": "RHD",
+        "Full Term": "rheumatic heart disease"
+    },
+    {
+        "Abbreviation": "RLL",
+        "Full Term": "right lower lobe"
+    },
+    {
+        "Abbreviation": "RLQ",
+        "Full Term": "right lower quadrant"
+    },
+    {
+        "Abbreviation": "RML",
+        "Full Term": "right middle lobe"
+    },
+    {
+        "Abbreviation": "RN",
+        "Full Term": "registered nurse"
+    },
+    {
+        "Abbreviation": "ROM",
+        "Full Term": "range of motion"
+    },
+    {
+        "Abbreviation": "ROS",
+        "Full Term": "review of systems"
+    },
+    {
+        "Abbreviation": "ROSC",
+        "Full Term": "return of spontaneous circulation"
+    },
+    {
+        "Abbreviation": "RQ",
+        "Full Term": "respiratory quotient"
+    },
+    {
+        "Abbreviation": "RR",
+        "Full Term": "respiratory rate"
+    },
+    {
+        "Abbreviation": "RSI",
+        "Full Term": "rapid sequence intubation​"
+    },
+    {
+        "Abbreviation": "RSV",
+        "Full Term": "respiratory syncytial virus"
+    },
+    {
+        "Abbreviation": "R't",
+        "Full Term": "right"
+    },
+    {
+        "Abbreviation": "RTC",
+        "Full Term": "return to clinic"
+    },
+    {
+        "Abbreviation": "RUL",
+        "Full Term": "right upper lobe"
+    },
+    {
+        "Abbreviation": "RUQ",
+        "Full Term": "right upper quadrant"
+    },
+    {
+        "Abbreviation": "RV",
+        "Full Term": "residual volume"
+    },
+    {
+        "Abbreviation": "RVH",
+        "Full Term": "Right ventricular hypertrophy"
+    },
+    {
+        "Abbreviation": "Rx",
+        "Full Term": "Treatment,therapy"
+    },
+    {
+        "Abbreviation": "S/P",
+        "Full Term": "status post"
+    },
+    {
+        "Abbreviation": "SAH",
+        "Full Term": "subarachnoid hemorrhage"
+    },
+    {
+        "Abbreviation": "SaO2",
+        "Full Term": "Hemoglobin oxygen saturation"
+    },
+    {
+        "Abbreviation": "SARS",
+        "Full Term": "Severe  Acute Respiratory Syndrome"
+    },
+    {
+        "Abbreviation": "SBE",
+        "Full Term": "subacute bacterial endocarditis"
+    },
+    {
+        "Abbreviation": "SBI",
+        "Full Term": "spontaneous breathing index"
+    },
+    {
+        "Abbreviation": "SBP",
+        "Full Term": "systolic blood pressure"
+    },
+    {
+        "Abbreviation": "SC",
+        "Full Term": "皮下注射"
+    },
+    {
+        "Abbreviation": "SCLC",
+        "Full Term": "Small Cell   Lung Cancer"
+    },
+    {
+        "Abbreviation": "SDH",
+        "Full Term": "subdural hematoma"
+    },
+    {
+        "Abbreviation": "SDM",
+        "Full Term": "shared decision making"
+    },
+    {
+        "Abbreviation": "SGLT2i",
+        "Full Term": "sodium-glucose cotransporter-2 inhibitors"
+    },
+    {
+        "Abbreviation": "SGOT",
+        "Full Term": "serum glutamic oxaloacetic transaminase"
+    },
+    {
+        "Abbreviation": "SGPT",
+        "Full Term": "serum glutamic pyruvic transaminase"
+    },
+    {
+        "Abbreviation": "SIADH",
+        "Full Term": "syndrome of inappropriate antidiuretic hormone"
+    },
+    {
+        "Abbreviation": "SICU",
+        "Full Term": "surgical intensive care unit"
+    },
+    {
+        "Abbreviation": "sig",
+        "Full Term": "signa"
+    },
+    {
+        "Abbreviation": "SKIN",
+        "Full Term": "皮膚用"
+    },
+    {
+        "Abbreviation": "SL",
+        "Full Term": "舌下"
+    },
+    {
+        "Abbreviation": "SLE",
+        "Full Term": "systemic lupus erythematosus"
+    },
+    {
+        "Abbreviation": "SMBG",
+        "Full Term": "self-monitoring of blood glucose"
+    },
+    {
+        "Abbreviation": "SOB",
+        "Full Term": "short of breath"
+    },
+    {
+        "Abbreviation": "soln",
+        "Full Term": "solution"
+    },
+    {
+        "Abbreviation": "SPECT",
+        "Full Term": "SPECT (single-photon emission computed tomography)"
+    },
+    {
+        "Abbreviation": "SPN",
+        "Full Term": "Solitary Pulmonary Nodule"
+    },
+    {
+        "Abbreviation": "SpO2",
+        "Full Term": "oxyhemoglobin saturation by pulse oximetry"
+    },
+    {
+        "Abbreviation": "SRR",
+        "Full Term": "spontaneous respiratory rate"
+    },
+    {
+        "Abbreviation": "SSS",
+        "Full Term": "SSS (sick sinus syndrome)"
+    },
+    {
+        "Abbreviation": "Staph",
+        "Full Term": "staphylococcus"
+    },
+    {
+        "Abbreviation": "Stat",
+        "Full Term": "at once,immediately and once only(Latin:statum)"
+    },
+    {
+        "Abbreviation": "STD",
+        "Full Term": "STD (sexually transmitted diseases)"
+    },
+    {
+        "Abbreviation": "STEMI",
+        "Full Term": "ST-segment elevation myocardial infarction"
+    },
+    {
+        "Abbreviation": "Strep",
+        "Full Term": "streptococcus"
+    },
+    {
+        "Abbreviation": "STSG",
+        "Full Term": "split-thickness skin graft"
+    },
+    {
+        "Abbreviation": "Subling",
+        "Full Term": "sublingual(under the tongue)"
+    },
+    {
+        "Abbreviation": "Sulfa",
+        "Full Term": "sulfonamides"
+    },
+    {
+        "Abbreviation": "supp",
+        "Full Term": "suppositorium"
+    },
+    {
+        "Abbreviation": "Surg",
+        "Full Term": "surgery or surgical"
+    },
+    {
+        "Abbreviation": "susp",
+        "Full Term": "suspension"
+    },
+    {
+        "Abbreviation": "SVC",
+        "Full Term": "slow vital capacity"
+    },
+    {
+        "Abbreviation": "SVN",
+        "Full Term": "small volume nebulizer"
+    },
+    {
+        "Abbreviation": "SvO2",
+        "Full Term": "oxygen saturation in vein"
+    },
+    {
+        "Abbreviation": "syr",
+        "Full Term": "syrup"
+    },
+    {
+        "Abbreviation": "T",
+        "Full Term": "temperature"
+    },
+    {
+        "Abbreviation": "T1W",
+        "Full Term": "T1-weighted"
+    },
+    {
+        "Abbreviation": "T2W",
+        "Full Term": "T2-weighted"
+    },
+    {
+        "Abbreviation": "T3",
+        "Full Term": "triiodothyronine"
+    },
+    {
+        "Abbreviation": "T4",
+        "Full Term": "thyroxin"
+    },
+    {
+        "Abbreviation": "Tab",
+        "Full Term": "tablet"
+    },
+    {
+        "Abbreviation": "TACE",
+        "Full Term": "transcatheter arterial chemoembolization"
+    },
+    {
+        "Abbreviation": "TAE",
+        "Full Term": "transcatheter arterial embolization"
+    },
+    {
+        "Abbreviation": "TAH",
+        "Full Term": "total abdominal hysterectomy"
+    },
+    {
+        "Abbreviation": "TB",
+        "Full Term": "tuberculosis"
+    },
+    {
+        "Abbreviation": "TCC",
+        "Full Term": "transitional cell carcinoma"
+    },
+    {
+        "Abbreviation": "TCP",
+        "Full Term": "transcutaneous pacing"
+    },
+    {
+        "Abbreviation": "TDM",
+        "Full Term": "therapeutic drug monitoring"
+    },
+    {
+        "Abbreviation": "TEE",
+        "Full Term": "transesophageal echocardiography"
+    },
+    {
+        "Abbreviation": "TG",
+        "Full Term": "triglyceride"
+    },
+    {
+        "Abbreviation": "THR",
+        "Full Term": "total hip replacement"
+    },
+    {
+        "Abbreviation": "ti",
+        "Full Term": "inspiratory time"
+    },
+    {
+        "Abbreviation": "TIA",
+        "Full Term": "transient ischemic attack"
+    },
+    {
+        "Abbreviation": "TIBC",
+        "Full Term": "total iron binding capacity"
+    },
+    {
+        "Abbreviation": "TID",
+        "Full Term": "一日3次(早,午,晚)"
+    },
+    {
+        "Abbreviation": "TI-RADS",
+        "Full Term": "thyroid imaging reporting and data system"
+    },
+    {
+        "Abbreviation": "TKA",
+        "Full Term": "total knee arthroplasty"
+    },
+    {
+        "Abbreviation": "TLC",
+        "Full Term": "total lung capacity"
+    },
+    {
+        "Abbreviation": "Tlow",
+        "Full Term": "low time leve"
+    },
+    {
+        "Abbreviation": "TM",
+        "Full Term": "tympanic membrane"
+    },
+    {
+        "Abbreviation": "TMJ",
+        "Full Term": "temporomandibular joint"
+    },
+    {
+        "Abbreviation": "TOA",
+        "Full Term": "tubo-ovarian abscess"
+    },
+    {
+        "Abbreviation": "TOPI",
+        "Full Term": "局部使用"
+    },
+    {
+        "Abbreviation": "tPA",
+        "Full Term": "tissue plasminogen activator"
+    },
+    {
+        "Abbreviation": "TPN",
+        "Full Term": "total parenteral nutrition"
+    },
+    {
+        "Abbreviation": "TPO",
+        "Full Term": "thyroid peroxidase"
+    },
+    {
+        "Abbreviation": "TPR",
+        "Full Term": "tempertaure,pulse,and respirations"
+    },
+    {
+        "Abbreviation": "TR",
+        "Full Term": "tricuspid regurgitation"
+    },
+    {
+        "Abbreviation": "Tr.tube",
+        "Full Term": "tracheostomy tube"
+    },
+    {
+        "Abbreviation": "TRH",
+        "Full Term": "thyroid releasing hormone"
+    },
+    {
+        "Abbreviation": "TRM",
+        "Full Term": "team resource management"
+    },
+    {
+        "Abbreviation": "TSH",
+        "Full Term": "thyroid stimulating hormone"
+    },
+    {
+        "Abbreviation": "tsp",
+        "Full Term": "teaspoon"
+    },
+    {
+        "Abbreviation": "Ttot",
+        "Full Term": "total respiratory time"
+    },
+    {
+        "Abbreviation": "TURBT",
+        "Full Term": "Transurethral Resection of Bladder Tumor"
+    },
+    {
+        "Abbreviation": "TURP",
+        "Full Term": "transurethral resection of the prostate"
+    },
+    {
+        "Abbreviation": "TVD",
+        "Full Term": "triple vessel disease"
+    },
+    {
+        "Abbreviation": "Tx",
+        "Full Term": "treatment"
+    },
+    {
+        "Abbreviation": "TZD",
+        "Full Term": "thiazolidinedione"
+    },
+    {
+        "Abbreviation": "U",
+        "Full Term": "unit"
+    },
+    {
+        "Abbreviation": "U/A",
+        "Full Term": "urinalysis"
+    },
+    {
+        "Abbreviation": "UACR",
+        "Full Term": "urine albumin-to-creatinine ratio"
+    },
+    {
+        "Abbreviation": "UC",
+        "Full Term": "ulcerative colitis"
+    },
+    {
+        "Abbreviation": "UGI",
+        "Full Term": "upper gastrointestinal"
+    },
+    {
+        "Abbreviation": "UPCR",
+        "Full Term": "urine protein-to-creatinine ratio"
+    },
+    {
+        "Abbreviation": "UPPP",
+        "Full Term": "Uvulopalatopharyngoplasty"
+    },
+    {
+        "Abbreviation": "URI",
+        "Full Term": "upper respiratory infection"
+    },
+    {
+        "Abbreviation": "Urol",
+        "Full Term": "urology"
+    },
+    {
+        "Abbreviation": "UTI",
+        "Full Term": "Urinary tract infection"
+    },
+    {
+        "Abbreviation": "UV",
+        "Full Term": "ultraviolet"
+    },
+    {
+        "Abbreviation": "V/Q",
+        "Full Term": "ventilation/perfusion ratio"
+    },
+    {
+        "Abbreviation": "vag tab",
+        "Full Term": "vaginal tablet"
+    },
+    {
+        "Abbreviation": "VAP",
+        "Full Term": "ventilator-associated pneumonia"
+    },
+    {
+        "Abbreviation": "VBI",
+        "Full Term": "vertebrobasilar insufficiency"
+    },
+    {
+        "Abbreviation": "VD",
+        "Full Term": "venereal disease"
+    },
+    {
+        "Abbreviation": "VE",
+        "Full Term": "minute volume"
+    },
+    {
+        "Abbreviation": "VF",
+        "Full Term": "Ventricular fibrillation"
+    },
+    {
+        "Abbreviation": "VH",
+        "Full Term": "vitreous hemorrhage"
+    },
+    {
+        "Abbreviation": "VHD",
+        "Full Term": "valvular heart disease"
+    },
+    {
+        "Abbreviation": "V-P shunt",
+        "Full Term": "ventriculoperitoneal shunt"
+    },
+    {
+        "Abbreviation": "VPC",
+        "Full Term": "ventricular premature contraction"
+    },
+    {
+        "Abbreviation": "VRE",
+        "Full Term": "vancomycin-resistant enterococcus"
+    },
+    {
+        "Abbreviation": "VS",
+        "Full Term": "volume support"
+    },
+    {
+        "Abbreviation": "VSD",
+        "Full Term": "ventricular septal defect"
+    },
+    {
+        "Abbreviation": "VSV",
+        "Full Term": "volume support ventilation"
+    },
+    {
+        "Abbreviation": "VT",
+        "Full Term": "Ventricular  tachycardia"
+    },
+    {
+        "Abbreviation": "VT(TV)",
+        "Full Term": "tidal volume"
+    },
+    {
+        "Abbreviation": "vWD",
+        "Full Term": "von Willebrand disease"
+    },
+    {
+        "Abbreviation": "WBC",
+        "Full Term": "white blood count"
+    },
+    {
+        "Abbreviation": "Wks",
+        "Full Term": "weeks"
+    },
+    {
+        "Abbreviation": "WNL",
+        "Full Term": "within normal limits"
+    },
+    {
+        "Abbreviation": "WOB",
+        "Full Term": "work of breathing"
+    },
+    {
+        "Abbreviation": "Wt",
+        "Full Term": "weight"
+    }
+]
