@@ -17,8 +17,8 @@ class JsonParser(Parser):
         if isinstance(data, list):
             for i, obj in enumerate(data):
                 offset += 1  # For opening bracket or comma before object
-                page_text = json.dumps(obj)
+                page_text = json.dumps(obj, ensure_ascii=False)
                 yield Page(i, offset, page_text)
                 offset += len(page_text)
         elif isinstance(data, dict):
-            yield Page(0, 0, json.dumps(data))
+            yield Page(0, 0, json.dumps(data, ensure_ascii=False))
